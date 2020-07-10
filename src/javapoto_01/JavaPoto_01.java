@@ -16,7 +16,7 @@ public class JavaPoto_01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("javapoto_01.JavaPoto_01.main()");
+        System.out.println("Primer Cambio");
     }
     
 }
